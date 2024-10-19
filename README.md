@@ -1,11 +1,11 @@
 
 - # 💫 About Me:
-- - 👋 Hi, I’m Syera
+-  👋 Hi, I’m Syera
 - 👀 I’m interested on working from any part of the world
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on building project portfolio
 - 📫 How to reach me :  sitisyahirahmohdyunus@gmail.com
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with focus tehniques <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact : my heart stopped beating during an operation on June 2024 and managed to choke back to life 
 
 
 ## 🌐 Socials:
