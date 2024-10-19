@@ -3,7 +3,7 @@
 -  👋 Hi, I’m Syera
 - 👀 I’m interested on working from any part of the world
 - 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on building project portfolio
+- 💞️ I’m looking to collaborate on building project portfolio & fitness mobility works
 - 📫 How to reach me :  sitisyahirahmohdyunus@gmail.com<br>
 🔭 I’m currently working on<br>👯🤝 I’m looking for help with focus tehniques <br>💬 Ask me about new perspective <br>⚡ Fun fact : love to drive manual transmission & race at F1 circuit 
 
