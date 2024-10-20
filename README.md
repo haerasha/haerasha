@@ -7,6 +7,87 @@
 - 📫 How to reach me :  sitisyahirahmohdyunus@gmail.com<br>
 🔭 I’m currently working on balancing works, studies plus mental and physical health <br>👯🤝 I’m looking for help with focus tehniques <br>💬 Ask me about new perspective <br>⚡ Fun fact : love to drive manual transmission 
 
+**2017-2020 SICK SENSOR INTELLIGENCE SDN. BHD** 
+**Production Engineer**
+-Managed to increase Worker Productivity from 90% to 98%
+-Managed to achieve Shipping goods target output on time JIT from 80% to 100%
+-Working with other department to reduce rejection from 30% to 1% (Yield 70% to 99%)
+-Assist to drive 6 Sigma project in workshop and Lean activities implement
+-Assist with the implementation of continuous improvement processes for efficiency to create aLean Manufacturing environment
+-Develop and monitor process improvements
+-Develops and executes the Annual Operating Plan for operations
+-Develops and implements cost reduction strategy and delivers quarterly improvements
+-Ensures that service and knowledge management tools are used effectively, and that agreedservice management procedures are followed
+-Expected to work in a safe manner in accordance with established operating procedures andpractices
+-Familiar to work under a quality management system (ISO9001, ISO13485)
+-Maintain records and logs of work done using the department service desk tools, on theinstallation, modification and repair of systems
+-Manage various work teams (subcontractors, suppliers, management and unionizedemployees) to develop solutions for improving the existing and future equipment
+-Provide input to plan, manage and perform product introduction
+-Supports Operations work process. This includes working with the Operations Leadership Team to establish and resolve performance gaps
+-To provide managerial support to production manager on daily department operation, such as5S,output and continuous improvement
+-Translating Proofread Germany Technical report into English to use in Asia's branch
+
+**2020-2024 SICK SENSOR INTELLIGENCE ASIA SINGAPORE **
+**Industrial Engineer**
+-Involved with Project Integration team from Germany, China, Singapore to Production Plantin Malaysia
+-Work directly and closely on daily basis with Project Manager & all engineer and Executive (R&D, Electrical, Mechanical & Design, IT) 
+ from Germany, China, Singapore, USA, Pakistan,India, Myanmar, Malaysia, Philippines, Taiwan
+- Provide cross-functional guidance and expertise and train and develop manufacturingengineers and operation teams with the Industrial 
+ Engineering expertise
+-Analyze and provide solutions for labor cost reduction through process improvements andcost/benefit analysis
+-Assist in establishing work measurement programs and analyze work samples to developstandards for labor utilization
+-Clearly and effectively communicate both verbally and in written form to both technical andnon-technical audiences, especially regarding manufacturing processes, engineering issuesand proposed changes, and quality issues and dispositions
+-Collaborate with Design Engineering during prototype, development and first articlemanufacturing
+-Create strategy to manage yield process time difference and change set up
+-Creates performance driven metrics and maintains trend analysis to ensure effectiveness ofprocess improvement implementation and quantifies the improvements
+-Define and document standardized work for each cell. Create photo based work instructionsfor each unit of standard work
+-Develop and drive the Continuous Improvement Process that improves methods of operationand work standards and improves plant productivity
+-Develop, evaluate, document and improve methods of operations to work area design, processflow and work methods
+-Establish and maintain work standards using time studies across all operational processes
+Establish and manage proactive ergonomic processes that evaluate, recommend andimplement improvements to work area, tools and fixture designs
+- Improving labor productivity through the development/deployment of best known methodsand Lean Manufacturing principles
+- Improving operational efficiency of factory equipment resulting in improved cycle-timeand/or increased factory capacity with minimal capital and/or operational investments
+- Manufacturing time management (MTM) for Strategic capacity planning – both equipmentand staffing
+- Work with operations management to improve performance of staff
+-Work with various teams to develop Standard Work instructions & Producing Video throughtime observations and associated visual controls for measuring performance
+- Working with cross functional teams through problem solving and project execution includingLogistic and output Planning team
+
+
+
+**SKILLS**
+-Proficient in the use of Microsoft Office (Word, Excel, Outlook and PowerPoint)
+-Able to read Technical Drawing 2D and 3D
+-SAP Production Management
+-Well versed in BOM Manufaturing Product Structure
+-Work both remotely and on site during lockdown
+-Able to use Laser Marking machine
+-Lean Manufaturing implementation including Kanban, Just in Time (JIT) to clear bottleneckand deliver goods to customer
+-Update kanban materials, Deal with R&D, warehouse, logistic, engineering team to ensureonly good material available at kanban to reduce cycle time.
+-Produced and update working instruction for new Project and current Production includingStandard model and Custom made.
+-Assessed and produced video for workflow and real Production process
+-Produced operational workflow following European standard
+-Using Process Failure Mode and Effect Analysts PFMEA, Fishbone diagram, Gannt chart
+-Report Directly to Project and Product manager on daily basis to Ensure that the team issupported with the system expertise needed to deliver business objectives
+-Well understood with all system update/upgrade requests and employ robust change controlpractices including documentation of business requirements and justifications
+-Previous experience working as part of a large, multi-disciplinary team
+-Experience with process control system vendors in the Process industry or success as an end-user managing production for plant
+-Involved with implementation of new product development and program managementbusiness processes
+
+**Projects involved**
+Safety Switches:
+https://www.sick.com/ca/en/catalog/products/safety...
+Encoders :
+https://www.sick.com/us/en/products-and-solutions/...
+Safety Light Curtains:
+https://www.sick.com/us/en/catalog/products/safety...
+
+**REFERENCEPERSON**
+Christopher Tan,
+Project Manager, RPC Project Management Office,
+SICK Product Center Asia Pte. Ltd.
+christopher.tan@sick.com
++657443732
+Trevor Lee,
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syahirah-my-alwayscan1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@haerahorahorey) 
