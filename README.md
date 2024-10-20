@@ -5,7 +5,17 @@
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on building project portfolio & fitness mobility works
 - 📫 How to reach me :  sitisyahirahmohdyunus@gmail.com<br>
-🔭 I’m currently working on balancing works, studies plus mental and physical health <br>👯🤝 I’m looking for help with focus tehniques <br>💬 Ask me about new perspective <br>⚡ Fun fact : love to drive manual transmission 
+🔭 I’m currently working on balancing works, studies plus mental and physical health <br>👯🤝 I’m looking for help with focus tehniques <br>💬 Ask me about new perspective <br>⚡ Fun fact : love to drive manual transmission
+
+**2012-2017 UNIVERSITI TEKNIKAL MALAYSIA MELAKA (UTEM)**
+Bachelor's of Mechanical Engineering (Thermal Fluids) with Hons.
+
+**Upskilling Project 2023-2024 **
+-Google Foundation of Project Management 
+-IBM Product Manager 
+-University of Virginia Agile Project Management: Ongoing
+-IBM Data analytics : Ongoing
+-Microsoft Power BI Data Analyst : Ongoing
 
 **2017-2020 SICK SENSOR INTELLIGENCE SDN. BHD** 
 **Production Engineer**
