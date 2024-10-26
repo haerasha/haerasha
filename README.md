@@ -18,7 +18,7 @@
 -Microsoft Power BI Data Analyst : Ongoing
 
 **2017-2020 SICK SENSOR INTELLIGENCE SDN. BHD** 
-**Production Engineer**
+<br>**Production Engineer**
 -Managed to increase Worker Productivity from 90% to 98%
 -Managed to achieve Shipping goods target output on time JIT from 80% to 100%
 -Working with other department to reduce rejection from 30% to 1% (Yield 70% to 99%)
@@ -38,7 +38,7 @@
 -Translating Proofread Germany Technical report into English to use in Asia's branch
 
 **2020-2024 SICK SENSOR INTELLIGENCE ASIA SINGAPORE & GERMANY**
-**Industrial Engineer**
+<br>**Industrial Engineer**
 -Involved with Project Integration team from Germany, China, Singapore to Production Plantin Malaysia
 -Work directly and closely on daily basis with Project Manager & all engineer and Executive (R&D, Electrical, Mechanical & Design, IT) 
  from Germany, China, Singapore, USA, Pakistan,India, Myanmar, Malaysia, Philippines, Taiwan
