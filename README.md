@@ -8,7 +8,7 @@
 🔭 I’m currently working on balancing works, studies plus mental and physical health <br>👯🤝 I’m looking for help with focus tehniques <br>💬 Ask me about new perspective <br>⚡ Fun fact : love to drive manual transmission
 
 **UNIVERSITI TEKNIKAL MALAYSIA MELAKA (UTEM)**
-Bachelor's of Mechanical Engineering (Thermal Fluids) with Hons.
+<br>Bachelor's of Mechanical Engineering (Thermal Fluids) with Hons.
 
 **Upskilling Project 2023-2024 **
 -Google Foundation of Project Management 
