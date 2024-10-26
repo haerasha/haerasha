@@ -7,7 +7,7 @@
 - 📫 How to reach me :  sitisyahirahmohdyunus@gmail.com<br>
 🔭 I’m currently working on balancing works, studies plus mental and physical health <br>👯🤝 I’m looking for help with focus tehniques <br>💬 Ask me about new perspective <br>⚡ Fun fact : love to drive manual transmission
 
-**2012-2017 UNIVERSITI TEKNIKAL MALAYSIA MELAKA (UTEM)**
+**UNIVERSITI TEKNIKAL MALAYSIA MELAKA (UTEM)**
 Bachelor's of Mechanical Engineering (Thermal Fluids) with Hons.
 
 **Upskilling Project 2023-2024 **
@@ -37,7 +37,7 @@ Bachelor's of Mechanical Engineering (Thermal Fluids) with Hons.
 -To provide managerial support to production manager on daily department operation, such as5S,output and continuous improvement
 -Translating Proofread Germany Technical report into English to use in Asia's branch
 
-**2020-2024 SICK SENSOR INTELLIGENCE ASIA SINGAPORE **
+**2020-2024 SICK SENSOR INTELLIGENCE ASIA SINGAPORE & GERMANY**
 **Industrial Engineer**
 -Involved with Project Integration team from Germany, China, Singapore to Production Plantin Malaysia
 -Work directly and closely on daily basis with Project Manager & all engineer and Executive (R&D, Electrical, Mechanical & Design, IT) 
@@ -91,13 +91,7 @@ https://www.sick.com/us/en/products-and-solutions/...
 Safety Light Curtains:
 https://www.sick.com/us/en/catalog/products/safety...
 
-**REFERENCEPERSON**
-Christopher Tan,
-Project Manager, RPC Project Management Office,
-SICK Product Center Asia Pte. Ltd.
-christopher.tan@sick.com
-+657443732
-Trevor Lee,
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syahirah-my-alwayscan1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@haerahorahorey) 
