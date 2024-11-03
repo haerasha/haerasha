@@ -37,7 +37,7 @@
 -To provide managerial support to production manager on daily department operation, such as5S,output and continuous improvement
 -Translating Proofread Germany Technical report into English to use in Asia's branch
 
-**2020-2024 SICK SENSOR INTELLIGENCE ASIA SINGAPORE & GERMANY**
+**2020-2023 SICK SENSOR INTELLIGENCE ASIA SINGAPORE & GERMANY**
 <br>**Industrial Engineer**
 -Involved with Project Integration team from Germany, China, Singapore to Production Plantin Malaysia
 -Work directly and closely on daily basis with Project Manager & all engineer and Executive (R&D, Electrical, Mechanical & Design, IT) 
