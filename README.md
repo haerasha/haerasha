@@ -7,6 +7,9 @@
 - 📫 How to reach me :  sitisyahirahmohdyunus@gmail.com<br>
 🔭 I’m currently working on balancing works, studies plus mental and physical health <br>👯🤝 I’m looking for help with focus tehniques <br>💬 Ask me about new perspective <br>⚡ Fun fact : love to drive manual transmission
 
+**UNIVERSITI TEKNOLOGI MALAYSIA (UTM)**
+<br>Master degree in Computer Science (Data Science)
+
 **UNIVERSITI TEKNIKAL MALAYSIA MELAKA (UTEM)**
 <br>Bachelor's of Mechanical Engineering (Thermal Fluids) with Hons.
 
